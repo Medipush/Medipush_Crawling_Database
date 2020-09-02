@@ -14,8 +14,7 @@
 3. Pool, Manager - Multiprocessing Python Library
 
 
-## Repository 설명
-이 repository는 실제로 직접 구동을 하는 파일은 아닙니다. **(코드를 실행하지 마세요!!!)**  
+## Repository 설명  
 프로젝트 진행을 할 때, 데이터베이스 구축을 위한 파이썬 실행코드입니다.  
 Crawling_and_Making_DB.py가 실행 전반을 담고 있는 코드입니다.  
 데이터베이스 구축 코드 내부에서 의약품 품목코드를 활용하는데, 의약품 품목코드가 담겨있는 파일이 med_code.csv입니다.  
