@@ -3,8 +3,8 @@
 ## Appropriate install environment
 
 1. Python 3.8이상
-2. Jupyter Notebook에서도 확인할 수 있습니다.
-3. Google Colaboratory 기반으로 작선된 파이썬 코드입니다.
+2. Jupyter Notebook에서도 동작할 수 있습니다.
+3. Google Colaboratory 기반으로 작성된 파이썬 코드입니다.
 
 
 ## 사용 라이브러리
